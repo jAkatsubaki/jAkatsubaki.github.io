@@ -21,7 +21,7 @@ jobs:
       - name: Copy src
         run: |
           mkdir docs
-          cp src/index.html docs/index.html
+          cp -r src/* docs/
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
