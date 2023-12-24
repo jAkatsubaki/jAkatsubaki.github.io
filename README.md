@@ -1,6 +1,4 @@
-# jAkatsubaki.github.io portfolio
-
-This repository is not published.
+this is my portfolio
 
 ## Project setup
 
