@@ -1,0 +1,24 @@
+{
+  "blog": {
+    "hatena": [
+      {
+        "title": "AIデータ時代のネットワークとセキュリティについて",
+        "src": "https://akatsubakij.hatenablog.com/entry/2019/12/09/000135"
+      },
+      {
+        "title": "日報から見えてくる新卒の成長と育成課題",
+        "src": "https://akatsubakij.hatenablog.com/entry/2019/12/06/174256"
+      }
+    ],
+    "qiita": [
+      {
+        "title": "Javaを用いたソケット通信 前編",
+        "src": "https://qiita.com/akatsubaki/items/aaca7664c5b881415bf5"
+      },
+      {
+        "title": "Javaを用いたソケット通信 後編",
+        "src": "https://qiita.com/akatsubaki/items/ceb935f16c3402d3144d"
+      }
+    ]
+  }
+}

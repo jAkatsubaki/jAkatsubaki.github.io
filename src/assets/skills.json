@@ -1,0 +1,53 @@
+{
+  "plangitems": [
+    {
+      "text": "Java",
+      "icon": "java",
+      "details": "Basic syntax / Spring Boot / MyBatis Mapper / Android"
+    },
+    {
+      "text": "Python",
+      "icon": "python",
+      "details": "Basic syntax / Data analysis library / PyTorch"
+    },
+    {
+      "text": "c++",
+      "icon": "cuttlefish",
+      "details": "Basic syntax / OpenCV"
+    },
+    {
+      "text": "JavaScript",
+      "icon": "js",
+      "details": "Basic syntax / Vue 2.x / API Server"
+    }
+  ],
+  "langitems": [
+    {
+      "text": "Japanese (Native)"
+    },
+    {
+      "text": "English"
+    }
+  ],
+  "expertiseitems": [
+    {
+      "text": "Network basis",
+      "details": "TCP/IP"
+    },
+    {
+      "text": "Sensor Network / IoT",
+      "details": "WSN, D2D, Platform, Healthcare Application"
+    },
+    {
+      "text": "Healthcare",
+      "details": "Monitoring data flow"
+    }
+  ],
+  "qualifications": [
+    {
+      "text": "応用情報技術者試験(AP)\nApplied Information Technology Engineer Examination",
+      "date": "Apr. 2019",
+      "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA/wD/AP+gvaeTAAACSElEQVRoge3Zv2sUQRTA8U+ChRiMqERRA1pbBdMoKBaGIBG1MX+AYqNgY0pF7cTWVFb2QUEsxMLGSvwBkn9AG5HEX2CMRAh4FreHk7vbzWZnvWxkvzCwN2/em/du3s2+maOmpqampqY4fSn9h3AFAz30JQ8/cRdv8yq8R6Oi7V03h9NWpJE34nWiw+9NOZRe4EP5vqyJYRwpohgu5WSZHhVk0kqfOujvqTv/kDqQqpHnx57FZhzHYKSdBTzHr6IGYgN5iIlIGy2e4FRR5djUOhqpX5qt2EBuaaZFLAu4WYKdDur3yHrx3wQSu2uNaJb7WyPtLGAas0UNxAbyCPsjbbQYw4GiylVKraijQ+yKnNVMrTLe7NMxBmIDmcXFSBulUKXUiqIOZBW24TreYDFpr3EtkfWMmBLlGOal34LMWXuB2PMSZRRPsStjzO5kzEiZE8fuWiH9uI8tQd8zPNa8vjmDE0n/QDJ2FL9L9KGDIqk13qZ3u03ehzttY8Zy2u5paoVOzeFGm7yhuQHMp+hEkSe1DmfIHvj7De0J+mex3GX8ciIbTz7vC2R9OFfAB+QL5GqGbCe+Jc8/gv7hDJ1QFp4ud2Amhz9dSUutxZz6YbX6Kng+iJNdxk8kshYvU2xlkdc3MIUlq9+Mh6s1iK+B7DsuYW/SLid9LfkXK88xUznmW5KdIaVxIYczrXa+zInT/laIIe+5otS566KxatSBVI1eBPI5aRuOcIudwRC2416brPI08En3qvk0PtoggbRWIY0hETVVGn8A+e+/lzcDIhYAAAAASUVORK5CYII="
+    }
+  ]
+}
